@@ -1,0 +1,37 @@
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Hello Game.exe
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Hello Game.deps.json
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Hello Game.runtimeconfig.json
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Hello Game.runtimeconfig.dev.json
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Hello Game.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Hello Game.pdb
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.csprojAssemblyReference.cache
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.AssemblyInfoInputs.cache
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.AssemblyInfo.cs
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.csproj.CoreCompileInputs.cache
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.csproj.CopyComplete
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.dll
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.pdb
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\obj\Debug\netcoreapp3.1\Hello Game.genruntimeconfig.cache
+C:\Users\nickg\source\repos\CIS-580-Hello-Game\Hello Game\Hello Game\bin\Debug\netcoreapp3.1\Content\ball.xnb
